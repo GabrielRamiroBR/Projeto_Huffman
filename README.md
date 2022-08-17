@@ -1,7 +1,8 @@
 # Projeto_Huffman
 Projeto da Disciplina de estrutura de Dados 1 para implementação do algoritmo de Huffman e testes de complexidade
 
-Enunciado
+#Enunciado
+
 Uma aplicação interessante que usa as estruturas de dados Heap Binária e
 Árvore Binária, aprendidas em sala de aula, corresponde ao Algoritmo de Huffman para
 determinar os Códigos de Huffman [1], que possui grande aplicação na área de
